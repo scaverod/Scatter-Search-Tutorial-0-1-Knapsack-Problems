@@ -1,0 +1,9 @@
+# Requirements to run the Python scripts (main_tutorial.py, scatter_search_tutorial.py, instance_reader.py)
+# - install black/flake8 for code style
+# - install pytest for tests
+# Optional (if you plan to extend):
+
+numpy>=1.21
+
+# Recommended: use Python 3.8+
+

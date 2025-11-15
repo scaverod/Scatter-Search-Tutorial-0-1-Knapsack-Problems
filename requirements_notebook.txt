@@ -1,0 +1,13 @@
+# Requirements to run the Jupyter notebook (ScatterSearch_Knapsack_Tutorial.ipynb)
+# Recommended: use Python 3.8+
+
+jupyterlab>=3.0
+notebook>=6.0
+ipykernel
+numpy>=1.21
+matplotlib>=3.3
+
+# Optional visualization packages:
+# pandas
+# seaborn
+
