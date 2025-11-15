@@ -120,3 +120,23 @@ Recommended for the Notebook / visualization:
 - `numpy>=1.21`
 - `matplotlib>=3.3`
 
+## Cite
+
+Consider citing our paper if used in your own work:
+
+### DOI
+
+<https://doi.org/XXXXXXX>
+
+### Bibtex
+
+```bibtex
+@article{cavero2025heuristic,
+  title={Scatter Search: Foundations and Implementations},
+  author={Laguna, Manuel and Cavero, Sergio and Martí, Rafa},
+  journal={SORT - Statistics and Operations Research Transactions},
+  year={202X},
+  doi={XXXXXXX}
+}
+
+```
