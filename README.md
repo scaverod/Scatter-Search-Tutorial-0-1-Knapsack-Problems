@@ -3,7 +3,7 @@
 <!-- Load Material Symbols Outlined for the mail icon -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=mail" />
 
-Authors
+## Authors
 
 - Manuel Laguna<sup>1</sup>   <a href="mailto:laguna@colorado.edu" aria-label="Email Manuel"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" alt="email" width="20" style="vertical-align:middle;"/></a>
     <a href="https://orcid.org/0000-0002-8759-5523"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20" style="vertical-align:middle;"/></a>
@@ -14,13 +14,13 @@ Authors
 - Rafael Martí<sup>1,3</sup>  <a href="mailto:rafael.marti@uv.es" aria-label="Email Rafael"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Email_Shiny_Icon.svg" alt="email" width="20" style="vertical-align:middle;"/></a>
     <a href="https://orcid.org/0000-0002-5258-5915"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20" style="vertical-align:middle;"/></a>
 
-Affiliations (short)
+#### Affiliations
 
-1. University of Colorado Boulder (Manuel Laguna & Rafael Martí)
+1. University of Colorado Boulder, Colorado, USA (Manuel Laguna & Rafael Martí)
 
-2. Universidad Rey Juan Carlos (Sergio Cavero)
+2. Universidad Rey Juan Carlos, Madrid, Spain (Sergio Cavero)
 
-3. Universitat de València (Rafael Martí)
+3. Universitat de València, Valencia, Spain (Rafael Martí)
 
 ## Abstract
 
