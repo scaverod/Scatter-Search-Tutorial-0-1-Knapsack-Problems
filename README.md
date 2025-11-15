@@ -110,21 +110,13 @@ Requirements (included here, also in `requirements_py.txt` and `requirements_not
 
 Runtime (to run the Python scripts `main_tutorial.py`, `scatter_search_tutorial.py`):
 
-- Python 3.8+
-- numpy>=1.21
+- `Python 3.8+`
+- `numpy>=1.21`
 
 Recommended for the Notebook / visualization:
 
-- jupyterlab>=3.0 or notebook>=6.0
-- ipykernel
-- numpy>=1.21
-- matplotlib>=3.3
+- `jupyterlab>=3.0 or notebook>=6.0`
+- `ipykernel`
+- `numpy>=1.21`
+- `matplotlib>=3.3`
 
-Optional (useful for analysis and plotting): pandas, seaborn
-
-Notes about Colab: Colab usually includes numpy and matplotlib. If the notebook requires a specific package version you can install it inside a Colab cell using `!pip install package`.
-
-Files added to the repository
-
-- `requirements_py.txt` — minimal runtime requirements (numpy). Use this to install dependencies for running the `.py` scripts.
-- `requirements_notebook.txt` — notebook/visualization requirements (jupyterlab, notebook, ipykernel, numpy, matplotlib).
